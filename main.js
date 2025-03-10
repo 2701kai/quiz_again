@@ -6,7 +6,9 @@ title.innerText = "Yaaay..another quiz.";
 body.append(title);
 
 const emoji = document.createElement("img");
-emoji.src = ./assets/annoyed.jpg;
+emoji.src = "./assets/annoyed.jpg";
+emoji.alt = "annoyed";
+body.append(emoji);
 
 // --------------------------------------------------
 // START
