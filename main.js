@@ -5,6 +5,9 @@ const title = document.createElement("h3");
 title.innerText = "Yaaay..another quiz.";
 body.append(title);
 
+const emoji = document.createElement("img");
+emoji.src = ./assets/annoyed.jpg;
+
 // --------------------------------------------------
 // START
 // --------------------------------------------------
