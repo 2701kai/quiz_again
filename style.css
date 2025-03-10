@@ -66,6 +66,13 @@ p {
   font-size: 1.5rem;
 }
 
+/* 2025-03-10: added .emoji just for recap purposes.. */
+.emoji {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* style for buttons */
 .btn {
   display: flex;

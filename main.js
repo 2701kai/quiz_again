@@ -7,6 +7,7 @@ body.append(title);
 
 const emoji = document.createElement("img");
 emoji.src = "./assets/annoyed.jpg";
+emoji.classList.add("emoji");
 emoji.alt = "annoyed";
 body.append(emoji);
 
