@@ -2,7 +2,7 @@
 
 ### Yaaaay, finally! Just what the world´s been waiting for.. another quiz.
 
-> das alberne quiz von heute morgen.. **[deployed @ vercel](https://quiz-again.vercel.app/)**.
+> das alberne quiz von heute morgen, Tag 1.. **[deployed @ vercel](https://quiz-again.vercel.app/)**.
 
 ## What have i learned today?
 
