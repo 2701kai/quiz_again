@@ -2,14 +2,22 @@ const body = document.body;
 console.log(document);
 
 const title = document.createElement("h3");
-title.innerText = "Yaaay..another quiz.";
+title.innerText = "Yaaay, another one..";
 body.append(title);
 
+// added 2025-03-10 - annoyed emoji
+// recap: flex apllies just to container elements - so to center the .png properly wrap img in a parenting div
+const emojiContainer = document.createElement("div");
+emojiContainer.classList.add("emoji-container");
+
 const emoji = document.createElement("img");
-emoji.src = "./assets/annoyed.jpg";
+emoji.src = "./assets/annoyed-emoji.png";
 emoji.classList.add("emoji");
 emoji.alt = "annoyed";
-body.append(emoji);
+
+// body.append(emoji);
+emojiContainer.appendChild(emoji);
+body.append(emojiContainer);
 
 // --------------------------------------------------
 // START

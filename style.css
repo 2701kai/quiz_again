@@ -41,7 +41,7 @@ div {
 }
 
 div {
-  margin: 20px 50px 150px;
+  margin: 20px 50px 50px;
 }
 
 h1,
@@ -67,10 +67,20 @@ p {
 }
 
 /* 2025-03-10: added .emoji just for recap purposes.. */
-.emoji {
+/* recap: flex apllies just to container elements - so to center the .png properly wrap img in a parenting div */
+.emoj-container {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0;
+}
+
+.emoji {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  width: 10vw;
+  height: auto;
 }
 
 /* style for buttons */
