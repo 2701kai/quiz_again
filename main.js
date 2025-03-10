@@ -162,7 +162,7 @@ function startGame() {
       ],
       1,
       "Bingo! There’s a stairway to the staaaars..",
-      "Puuh..<br>Du landest auch in Mölln,<br>wenn Du in HH Richtung Berlin abbiegst, was?"
+      "Cheeses.<br>Du landest auch in Mölln,<br>wenn Du in HH Richtung Berlin abbiegst, was?"
     ),
   ];
 
