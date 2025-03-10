@@ -183,4 +183,13 @@ p {
     margin: 0 auto;
     /* margin: 0; */
   }
+
+  /* 2025-03-10 */
+  .emoji {
+    /* display: flex;
+      justify-content: center;
+      align-items: center; */
+    width: 25vw;
+    height: auto;
+  }
 }
