@@ -2,11 +2,11 @@
 
 ### Yaaaay, finally! Just what the world´s been waiting for.. another quiz.
 
-> das alberne quiz von heute morgen.. [deployed @ vercel](https://quiz-again.vercel.app/).
+> das alberne quiz von heute morgen.. **[deployed @ vercel](https://quiz-again.vercel.app/)**.
 
 ## What have i learned today?
 
-well.. obviously i´m as smart as a <code>flussKiesel</code>, considwering the educational status of my <code>wonderClass(TM)</code>.
+well.. obviously i´m as smart as a <code>flussKiesel</code>, considering the educational status of my <code>wonderClass(TM)</code>.
 
 Whatever. Added some **[aliases for repetitive tasks in gh terminal](while-im-at-it.md)** at least.
 
