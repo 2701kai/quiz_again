@@ -2,7 +2,7 @@ const body = document.body;
 console.log(document);
 
 const title = document.createElement("h3");
-title.innerText = "DOM Manipulation";
+title.innerText = "Yaaay..another quiz.";
 body.append(title);
 
 // --------------------------------------------------
